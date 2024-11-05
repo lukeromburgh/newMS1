@@ -277,7 +277,7 @@ h1, h2, h3, h4 {
 #info #info-block h2 {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    font-size: 30;
+    font-size: 30px;
     font-style: normal;
     text-align: left;
 }
@@ -350,7 +350,7 @@ h1, h2, h3, h4 {
 #blues #blues-block h2 {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    font-size: 30;
+    font-size: 30px;
     font-style: normal;
     text-align: center;
     text-align: right;
