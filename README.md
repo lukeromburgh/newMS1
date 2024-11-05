@@ -4,6 +4,9 @@
 https://lukeromburgh.github.io/jm_archives/
 
 
+<h2>Remaining Errors</h2>
+CSS Scale property does exist, which is why it works. The W3 CSS validator has not been updated to accept it but scale is a transform property in official CSS documentation.
+
 <h2>Overview</h2>
 
 The John Mayer Archives website is a dedicated repository for John Mayer's music, including guitar tabs, audio files, and YouTube links to rare or unreleased tracks. This site aims to provide a comprehensive resource for John Mayer enthusiasts to explore and enjoy his music in various formats.
