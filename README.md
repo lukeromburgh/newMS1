@@ -1,7 +1,7 @@
 <h1>John Mayer Archives - README</h1>
 
 <h2>Link to live site</h2>
-https://lukeromburgh.github.io/jm_archives/
+[https://lukeromburgh.github.io/jm_archives/](https://github.com/lukeromburgh/newMS1)
 
 
 <h2>Remaining Errors</h2>
