@@ -5,7 +5,14 @@ https://lukeromburgh.github.io/newMS1/
 
 
 <h2>Remaining Errors</h2>
+<img width="983" alt="Screenshot 2024-12-01 at 09 31 33" src="https://github.com/user-attachments/assets/bbe359da-2341-4131-bfa9-a1f1c4323a5f">
 CSS Scale property does exist, which is why it works. The W3 CSS validator has not been updated to accept it but scale is a transform property in official CSS documentation.
+
+<h2>New testing</h2>
+<img width="1440" alt="Screenshot 2024-12-01 at 09 30 14" src="https://github.com/user-attachments/assets/13cf402c-78ca-43c7-ab93-eafaa8641b4b">
+<img width="1440" alt="Screenshot 2024-12-01 at 09 30 07" src="https://github.com/user-attachments/assets/ae0d47a4-e221-4ed0-a326-6d65083ebf82">
+
+
 
 <h2>Overview</h2>
 
@@ -300,8 +307,8 @@ I have used <a href="https://jigsaw.w3.org/css-validator/">W3C Jigsaw CSS Valida
   </tr>
   <tr>
     <td>Scale property does not exist</td>
-    <td><img width="1440" alt="Screenshot 2024-07-06 at 11 52 37" src="https://github.com/lukeromburgh/jm_archives/assets/173364172/02d58732-471c-4c76-870a-19aa7da23f9e"></td>
-    <td>I am unsure as to why I am getting this error, my research has shown that the scale property does in fact exist and I am yet to find an alternative that is as simple to use. Therefore this issue will remain unfixed.</td>
+    <td><img width="1440" alt="Screenshot 2024-12-01 at 09 30 14" src="https://github.com/user-attachments/assets/4abb943e-e644-4fb6-b1d3-6732486294db"></td>
+    <td>As outlined at the top of the readme, the scale property does exist.</td>
   </tr>
 </table>
 
